@@ -8,3 +8,8 @@ In this project I learned a lot of different coding principles. Our instructors 
 
 ### Reporting
 An in depth report of our fidings can be found in the technical report of this repository. Most of this work was done thorough our Github accounts tied to our university, and the work was segmented into a number of different repositories so the commit history does not adequately cover all work that was done in the semester long time period of this project.
+
+
+### Credits:
+I would like to thank the instructor for this course who aided me in my learning to be able to create a project like this. **Sophina Luitel -- Gonzaga University**
+I would also like to thank my classmate and partner in this project **James Cross** 
